@@ -1,3 +1,3 @@
 # philips_bootcamp
-# Intensivo de desenvolvimento web
-# Dio Innovation - dio.me
+Intensivo de desenvolvimento web
+Dio Innovation - dio.me
